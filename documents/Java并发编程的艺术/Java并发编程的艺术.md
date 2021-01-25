@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # Java内存模型(JMM)
 
 ## Java内存模型的基础
